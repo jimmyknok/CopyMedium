@@ -1,0 +1,30 @@
+{
+  "source": "/Users/jiayi/Documents/Codex/2026-05-11/medium-index-html-html-css-js/import-sample",
+  "imported": [
+    {
+      "source": "/Users/jiayi/Documents/Codex/2026-05-11/medium-index-html-html-css-js/import-sample/sample-post.md",
+      "post": "posts/imported-sample.md",
+      "copied": [
+        {
+          "from": "/Users/jiayi/Documents/Codex/2026-05-11/medium-index-html-html-css-js/import-sample/media/local-image.svg",
+          "to": "assets/imported/imported-sample/local-image.svg"
+        },
+        {
+          "from": "/Users/jiayi/Documents/Codex/2026-05-11/medium-index-html-html-css-js/import-sample/media/local-video.mp4",
+          "to": "assets/imported/imported-sample/local-video.mp4"
+        }
+      ],
+      "online": [
+        "https://example.com/online-image.jpg",
+        "https://example.com/video.mp4"
+      ],
+      "missing": []
+    }
+  ],
+  "summary": {
+    "posts": 1,
+    "copied": 2,
+    "online": 2,
+    "missing": 0
+  }
+}

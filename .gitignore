@@ -1,0 +1,28 @@
+.DS_Store
+.Spotlight-V100
+.Trashes
+
+# Local editor and runtime state
+.vscode/
+.idea/
+.env
+.env.*
+*.log
+
+# Python cache and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# JavaScript dependencies, if local tooling is added later
+node_modules/
+
+# Local test output and visual regression artifacts
+test-results/
+test-artifacts/
+playwright-report/
+
+# Import/debug files generated during local experiments
+*.tmp
+*.bak

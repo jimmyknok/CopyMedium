@@ -1,0 +1,11 @@
+{
+  "title": "一间小屋",
+  "tagline": "Personal Blog Platform",
+  "description": "A quiet, self-hosted personal writing room. Search, topics, drafts, featured stories, and RSS all support long-term writing.",
+  "author": "Jiayi",
+  "bio": "Notes on writing, design, and self-hosted tools. Less noise, more durable text.",
+  "url": "https://jimmyknok.github.io/CopyMedium/",
+  "language": "en",
+  "locale": "en_US",
+  "rss": "feed.xml"
+}

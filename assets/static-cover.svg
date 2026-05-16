@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-label="静态文章示例图">
+  <rect width="1200" height="720" fill="#f7f7f7"/>
+  <path d="M120 120h960v480H120z" fill="#fff" stroke="#111" stroke-width="4"/>
+  <path d="M220 230h500M220 310h760M220 390h620M220 470h420" stroke="#111" stroke-width="28" stroke-linecap="square"/>
+  <path d="M850 220h130v130H850z" fill="none" stroke="#111" stroke-width="18"/>
+  <path d="M890 455l70-90 70 90" fill="none" stroke="#111" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
