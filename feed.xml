@@ -5,26 +5,6 @@
     <link>https://jimmyknok.github.io/CopyMedium/index.html#/</link>
     <description>A quiet, self-hosted personal writing room. Search, topics, drafts, featured stories, and RSS all support long-term writing.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 16 May 2026 10:13:40 +0800</lastBuildDate>
-    <item>
-      <title>Imported Directory Test Story</title>
-      <link>https://jimmyknok.github.io/CopyMedium/index.html#/post/imported-sample</link>
-      <guid isPermaLink="true">https://jimmyknok.github.io/CopyMedium/index.html#/post/imported-sample</guid>
-      <description>This story verifies importing an external Markdown directory.</description>
-      <pubDate>Wed, 13 May 2026 12:02:29 +0800</pubDate>
-      <category>Import</category>
-      <category>Media</category>
-      <category>Test</category>
-    </item>
-    <item>
-      <title>Publishing a Story from a Markdown File</title>
-      <link>https://jimmyknok.github.io/CopyMedium/index.html#/post/static-markdown-demo</link>
-      <guid isPermaLink="true">https://jimmyknok.github.io/CopyMedium/index.html#/post/static-markdown-demo</guid>
-      <description>This story comes from posts/static-markdown-demo.md and demonstrates file-based static publishing.</description>
-      <pubDate>Wed, 13 May 2026 12:01:39 +0800</pubDate>
-      <category>Markdown</category>
-      <category>Static publishing</category>
-      <category>Self-hosted</category>
-    </item>
+    <lastBuildDate>Sat, 16 May 2026 10:49:02 +0800</lastBuildDate>
   </channel>
 </rss>

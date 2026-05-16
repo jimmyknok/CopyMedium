@@ -34,13 +34,18 @@ jobs:
         run: |
           python scripts/build_posts_index.py
 
+      - name: Prepare Pages artifact
+        run: |
+          mkdir -p _site
+          cp -R index.html site.config.json feed.xml posts assets _site/
+
       - name: Configure Pages
         uses: actions/configure-pages@v5
 
       - name: Upload static site
         uses: actions/upload-pages-artifact@v3
         with:
-          path: .
+          path: _site
 
       - name: Deploy
         id: deployment

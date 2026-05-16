@@ -22,7 +22,10 @@ node_modules/
 test-results/
 test-artifacts/
 playwright-report/
+_site/
 
 # Import/debug files generated during local experiments
+import-report.json
+import-sample/
 *.tmp
 *.bak

@@ -10,18 +10,14 @@
 ├── site.config.json
 ├── feed.xml
 ├── posts/
-│   ├── index.json
-│   ├── static-markdown-demo.md
-│   └── imported-sample.md
+│   └── index.json
 ├── assets/
-│   ├── demo-video.mp4
-│   ├── midjourney-test.png
-│   └── imported/
+│   └── static-cover.svg
 ├── scripts/
 │   ├── build_posts_index.py
 │   ├── build_rss.py
 │   └── import_markdown_dir.py
-└── import-report.json
+└── DEPLOYMENT.md
 ```
 
 ## 站点配置
@@ -136,7 +132,7 @@ python3 scripts/build_posts_index.py
 
 ![图片说明](assets/example.jpg)
 
-<video controls src="assets/demo-video.mp4"></video>
+<video controls src="assets/my-video.mp4"></video>
 
 ```js
 console.log("code block");
