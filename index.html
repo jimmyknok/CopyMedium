@@ -6714,7 +6714,11 @@
       });
 
       updateLineMarker();
-      requestAnimationFrame(() => placeCaretAtStart(document.getElementById("bodyInput")));
+      requestAnimationFrame(() => {
+        const initialTarget = id ? document.getElementById("bodyInput") : document.getElementById("titleInput");
+        placeCaretAtStart(initialTarget);
+        updateLineMarker();
+      });
     }
 
     function renderManage() {
